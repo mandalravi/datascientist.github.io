@@ -9,9 +9,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Niteshkumar Jha"
+title                    : "Ravi Mandal"
 title_separator          : " "
-name                     : "Niteshkumar Jha"
+name                     : "Ravi Mandal"
 description              : "Data Scientist"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -84,11 +84,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Niteshkumar Jha"
+  name             : "Ravi Mandal"
   avatar           : "/images/bio-pic-2.jpg" # Self image
   bio              : "Data Scientist"
-  location         : "Thane, India"
-  email            : "niteshkumarj69@gmail.com"
+  location         : "Bangalore, India"
+  email            : "mandalravi04@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -97,13 +97,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/NiteshkumarJha"
+  github           : "https://github.com/mandalravi"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "niteshkumar-jha-a37910a9/"
+  linkedin         : "https://www.linkedin.com/in/ravilax4/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
