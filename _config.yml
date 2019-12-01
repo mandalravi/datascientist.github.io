@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Ravi Mandal"
-  avatar           : "/images/bio-pic-2.jpg" # Self image
+  avatar           : "/images/bio-pic-2.png" # Self image
   bio              : "Data Scientist"
   location         : "Bangalore, India"
   email            : "mandalravi04@gmail.com"
